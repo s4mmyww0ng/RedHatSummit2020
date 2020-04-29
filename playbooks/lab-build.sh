@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# test
 # Build Script
 # Deploy and scale Microsoft Azure Cloud Native infrastructures and applications with Red Hat Ansible Automation
 # Written by Stuart Kirk <stuart.kirk@microsoft.com>
